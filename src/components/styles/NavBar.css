@@ -1,0 +1,15 @@
+.NavBar{
+    widows: 100%;
+    background-color: #1C3643;
+    height: 60px;
+    padding: 6px;
+}
+
+.NavBar__brand{
+    color: white;
+}
+
+.NavBar__brand:hover{
+    text-decoration: none;
+    color: white;
+}

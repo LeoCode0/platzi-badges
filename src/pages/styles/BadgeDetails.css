@@ -1,0 +1,16 @@
+.BadgeDetails__hero{
+    height: 230px;
+    width: 100%;
+    background-color: black;
+    background-image: url('../../images/estrellas.svg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-bottom: 40px;
+}
+
+.BadgeDetails__hero-attendant{
+    display: flex;
+    align-items: center;
+}

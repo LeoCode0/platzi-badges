@@ -1,0 +1,50 @@
+.Badge{
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10);
+}
+
+.Badge__header-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 100%;
+    height: 80px;
+}
+
+.Badge__body-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.Badge__body-info img{
+    border-radius: 50%;
+    height: 110px;
+    margin-right: 20px;
+}
+
+.Badge__body-personal{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 110px;
+    font-size: 20px;
+    font-weight: normal;
+    background-color: #f0f2f4;
+}
+
+.Badge__footer{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #8dc337;
+    font-style: italic;
+    font-weight: 600;
+}
